@@ -61,3 +61,17 @@ nav ul li a {
 .arrow {
     font-size:30px;
 }
+.flex-cont {
+    display: flex;
+    width: 1278px;
+    height: 100%;
+    margin: -757px 87px;
+    float: right;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu {
+    width:415px;
+    height:560px;
+    position: relative;
+}
