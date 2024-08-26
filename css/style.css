@@ -79,3 +79,23 @@ nav ul li a {
     width:415px;
     height:560px;
 }
+.fresh {
+    position: absolute;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: white;
+    bottom: 60px;
+    right: 0px;
+    padding: 18px 43px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.break {
+    position: absolute;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: #96db2e;
+    bottom: 0px;
+    right: 0px;
+    padding: 18px 47px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
