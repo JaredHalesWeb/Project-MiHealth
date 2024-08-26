@@ -41,3 +41,11 @@ nav ul li a {
     padding: 10px 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.lorem {
+    width:640px;
+    height:200px;
+}
+.filler {
+    font-size: 20px;
+    padding:50px 187px;
+}
