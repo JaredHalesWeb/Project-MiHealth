@@ -108,3 +108,6 @@ nav ul li a {
 #dinner {
     padding: 18px 70px;
 }
+@media only screen and (max-width: 1200px) {
+    
+}
