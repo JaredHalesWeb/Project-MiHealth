@@ -50,3 +50,14 @@ nav ul li a {
     font-size: 20px;
     padding:50px 187px;
 }
+.browse {
+    font-weight: bold;
+    font-size:22px;
+    padding:129px 181px;
+    float:left;
+    text-decoration: none;
+    color:black;
+}
+.arrow {
+    font-size:30px;
+}
