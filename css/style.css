@@ -109,5 +109,31 @@ nav ul li a {
     padding: 18px 70px;
 }
 @media only screen and (max-width: 1200px) {
-    
+    .flex-cont {
+        width: 840px;
+        height: 100%;
+        margin: -539px 70px;
+    }
+    .menu {
+        width: 195px;
+        height: 450px;
+    }
+    .food {
+        width: 268px;
+        height: 449px;
+    }
+    .browse {
+        padding:0px 50px;
+        font-size:20px;
+    }
+    .filler {
+        padding:0px 52px;
+        font-size: 16px;
+    }
+    .tag {
+        padding:60px 39px;
+    }
+    .tagline {
+        font-size:52px;
+    }
 }
